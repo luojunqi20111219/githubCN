@@ -617,6 +617,7 @@ const allData = [
   [`Network`, `网络`],
   [`Actions usage metrics`, `Actions 使用指标`],
   [`Actions performance metrics`, `Actions 性能指标`],
+  [`What’s not been updated in a month:`, `一个月内未更新的内容：`],
 ];
 
 const regexData = [
