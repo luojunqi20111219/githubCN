@@ -409,6 +409,17 @@ const allData = [
   [`License`, `许可证`],
   [`LICENSE`, `许可证`],
   [`license`, `许可证`],
+  [`No contributors`, `没有贡献者`],
+  [`Suggested workflows`, `推荐工作流`],
+  [`Based on your tech stack`, `基于您的技术栈`],
+  [`Datadog Synthetics logo`, `Datadog Synthetics 图标`],
+  [`Run Datadog Synthetic tests within your GitHub Actions workflow`, `在您的 GitHub Actions 工作流中运行 Datadog 合成测试`],
+  [`Publish Node.js Package logo`, `发布 Node.js 包图标`],
+  [`Publish Node.js Package`, `发布 Node.js 包`],
+  [`Publishes a Node.js package to npm.`, `将 Node.js 包发布到 npm。`],
+  [`Webpack logo`, `Webpack 图标`],
+  [`Build a NodeJS project with npm and webpack.`, `使用 npm 和 webpack 构建 NodeJS 项目。`],
+  [`More workflows`, `更多工作流`],
 ];
 
 const regexData = [
