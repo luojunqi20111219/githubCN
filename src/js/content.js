@@ -405,6 +405,10 @@ const allData = [
   [`forks`, ` 次复刻`],
   [`fork`, ` 次复刻`],
   [`star`, ` 颗星`],
+  [`README`, `自述文件`],
+  [`License`, `许可证`],
+  [`LICENSE`, `许可证`],
+  [`license`, `许可证`],
 ];
 
 const regexData = [
