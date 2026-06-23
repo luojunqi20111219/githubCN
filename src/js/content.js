@@ -420,6 +420,11 @@ const allData = [
   [`Webpack logo`, `Webpack 图标`],
   [`Build a NodeJS project with npm and webpack.`, `使用 npm 和 webpack 构建 NodeJS 项目。`],
   [`More workflows`, `更多工作流`],
+  // Dismiss/Configure suggestions
+  [`Dismiss suggestions`, `忽略推荐`],
+  [`Configure`, `配置`],
+  [`configure`, `配置`],
+  [`configur`, `配置`],
 ];
 
 const regexData = [
